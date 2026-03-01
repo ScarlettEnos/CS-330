@@ -1,5 +1,4 @@
-# CS-330
-CS 330 Portfolio
+# CS 330 Portfolio
 
 For this project, I approached designing my scene by first thinking about the overall goal and then breaking it into smaller pieces that I could build one at a time. 
 I looked at the reference image and thought about which simple shapes I could combine to recreate each object. Instead of trying to complete everything at once, I focused 
